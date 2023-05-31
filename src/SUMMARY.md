@@ -9,3 +9,4 @@
 - [Week 5 - Diamondback](./week5/index.md)
 - [Week 6-7 - Egg Eater](./week67/index.md)
 - [Week 8-9 - Forest Flame](./week89/index.md)
+- [Week 10 - Green Snake](./week10/index.md)

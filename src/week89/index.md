@@ -141,11 +141,6 @@ In addition, the compiled program now takes *two* arguments instead of just one.
    nonnegative number. If no second argument is provided, the default heap size
    is 10000.
 
-During a program's execution, data on the heap is *live* if it reachable from
-the program's stack.
-If the program tries to allocate heap data but there is not enough space in the
-heap, the garbage collector should run to compact the live 
-
 During a program's execution, if heap space runs out, it runs the garbage
 collector. If there is still not enough heap space, it exits with the error `out
 of memory`.
