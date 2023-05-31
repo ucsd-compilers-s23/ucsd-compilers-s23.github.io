@@ -62,6 +62,7 @@ The typical due dates are that **assignments** are due on Tuesday evenings and
 - Handouts:
   - “Monday ” Handout: [(pdf)](https://drive.google.com/open?id=1-wfiOdPL6smtwGfWd_GltUGiYF6Y3fd3&usp=drive_fs)
   - “Monday” Video: [(mov)](https://drive.google.com/file/d/106pTiFcJ0A_VPaG_3iumd39mJ8O-d01k/view)
+  - Wed Handout: [(pdf)](https://drive.google.com/open?id=11sbplhXa97v0wHPvRwP5la-Y_YZLbij2&usp=drive_fs)
 
 ### Week 8:
 - Handouts:
